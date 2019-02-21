@@ -1,0 +1,9 @@
+{
+  "name": "table-example",
+  "version": "1.0.0",
+  "description": "TableExample",
+  "main": "index.js",
+  "icon": "washing-machine",
+  "title": "Table Example",
+  "license": "MIT"
+}

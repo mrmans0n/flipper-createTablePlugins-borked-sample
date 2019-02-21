@@ -1,0 +1,9 @@
+{
+  "name": "normal-example",
+  "version": "1.0.0",
+  "description": "NormalExample",
+  "main": "index.js",
+  "icon": "internet",
+  "title": "Normal Example",
+  "license": "MIT"
+}
